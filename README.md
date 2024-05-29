@@ -18,3 +18,6 @@ Microphone sensor module
 Buzzer
 Breadboard and connecting wires
 Power supply (USB or battery pack)
+
+## Circuit Diagram
+![Circuit Diagram](circuit diagram.png)
