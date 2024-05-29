@@ -20,4 +20,4 @@ Breadboard and connecting wires
 Power supply (USB or battery pack)
 
 ## Circuit Diagram
-![Circuit Diagram](circuit diagram.png)
+![circuit diagram.png](https://github.com/sahil7303/Noise-Monitoring-System/blob/main/circuit%20diagram.png)
