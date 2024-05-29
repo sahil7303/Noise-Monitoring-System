@@ -5,11 +5,11 @@ The Noise Monitoring System is designed to detect and alert users when the noise
 
 ### Features
 #### Real-time Noise Detection: 
-Continuously monitors noise levels using a microphone sensor.
+  Continuously monitors noise levels using a microphone sensor.
 #### Threshold-based Alert: 
-Activates a buzzer alarm when noise levels exceed a predefined threshold.
+  Activates a buzzer alarm when noise levels exceed a predefined threshold.
 #### Adjustable Sensitivity: 
-Allows users to adjust the noise threshold to suit different environments.
+    Allows users to adjust the noise threshold to suit different environments.
 #### Simple and Cost-effective: 
 Utilizes readily available components and is easy to assemble and deploy.
 ### Components
