@@ -9,7 +9,7 @@ The Noise Monitoring System is designed to detect and alert users when the noise
 #### Threshold-based Alert: 
   Activates a buzzer alarm when noise levels exceed a predefined threshold.
 #### Adjustable Sensitivity: 
-    Allows users to adjust the noise threshold to suit different environments.
+  Allows users to adjust the noise threshold to suit different environments.
 #### Simple and Cost-effective: 
 Utilizes readily available components and is easy to assemble and deploy.
 ### Components
